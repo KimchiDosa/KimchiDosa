@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning ...
+# Hi there 👋
+##🌱 I’m currently learning ...
 - React
 - Node.Js
 <!--
